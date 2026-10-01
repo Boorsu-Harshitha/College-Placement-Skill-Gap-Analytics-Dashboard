@@ -1,0 +1,11 @@
+Student_ID,CGPA,Aptitude_Score,Tech_Interview_Score,Internships,Applications,Placement_Status,Salary_LPA,Primary_Skill
+S101,8.4,85,82,2,4,Placed,7.5,Python
+S102,6.5,60,55,0,8,Not Placed,0.0,Java
+S103,9.1,92,90,3,3,Placed,12.0,Python
+S104,7.2,70,68,1,6,Placed,4.5,SQL
+S105,8.8,88,85,2,5,Placed,9.0,Power BI
+S106,5.9,50,45,0,10,Not Placed,0.0,Java
+S107,7.8,75,72,1,4,Placed,6.0,SQL
+S108,8.2,80,78,2,3,Placed,8.0,Python
+S109,6.8,62,60,0,7,Not Placed,0.0,SQL
+S110,9.0,95,94,3,2,Placed,14.0,Python

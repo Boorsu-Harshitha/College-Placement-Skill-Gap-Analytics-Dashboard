@@ -1,0 +1,6 @@
+Skill,Student_Availability_Pct,Job_Demand_Pct,Gap_Percentage,Gap_Status
+SQL,0.62,0.91,0.29,High Gap (Critical)
+Python,0.71,0.84,0.13,Medium Gap
+Power BI,0.38,0.76,0.38,High Gap (Critical)
+Java,0.55,0.48,-0.07,Low Gap (Balanced)
+Cloud/AWS,0.25,0.68,0.43,High Gap (Critical)
